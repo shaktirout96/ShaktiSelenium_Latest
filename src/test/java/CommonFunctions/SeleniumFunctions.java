@@ -8,6 +8,7 @@ public class SeleniumFunctions
 	{
 		return element.getText(); 
 	}
+	
 	public static void Click(WebElement element)
 	{
 		 element.click(); 
