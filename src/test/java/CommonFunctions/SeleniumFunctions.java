@@ -12,4 +12,8 @@ public class SeleniumFunctions
 	{
 		 element.click(); 
 	}
+	public static void Clear(WebElement element)
+	{
+		 element.Clear(); 
+	}
 }
